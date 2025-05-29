@@ -1,6 +1,12 @@
 # csp-portfolio
 Some coding projects completed in AP CSP 2024-2025
 
+#Project 1: create project 
+
+This program helps the user choose what meal to eat. There are questions asked and depending on the user's input, the final choice will vary.
+- straightforward and easy to use
+- user friendly with clear instructions
+- 
 #Project 1: headline
 
 This program collects user input and makes a story headline out of them. There are premade story outlines and the user only has to fill in the blanks.
