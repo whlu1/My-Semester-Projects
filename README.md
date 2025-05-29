@@ -6,7 +6,12 @@ Some coding projects completed in AP CSP 2024-2025
 This program helps the user choose what meal to eat. There are questions asked and depending on the user's input, the final choice will vary.
 - straightforward and easy to use
 - user friendly with clear instructions
-- 
+
+#Project 2:
+This program helps the user decide what dog breed they should get.
+- easy to use with clear instructions
+- can be used by anyone of any age
+  
 #Project 1: headline
 
 This program collects user input and makes a story headline out of them. There are premade story outlines and the user only has to fill in the blanks.
